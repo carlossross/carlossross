@@ -13,7 +13,7 @@ Senior Frontend Developer focused on modern **Angular** architecture, signals, a
 - Angular, TypeScript, JavaScript
 - RxJS, Signals
 - HTML, CSS, SCSS
-- Jest / Jasmine
+- Karma / Jasmine
 - Git, GitHub
 
 ## 📫 Contact
